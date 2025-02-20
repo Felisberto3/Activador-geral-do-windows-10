@@ -5,9 +5,11 @@
 - Executar como Administrador.
 
 - Em seguida executar o seguinte comando:
-  ```bash
-irm https://massgrave.dev/get | iex ```
-e clicar na tecla Entrer.
+    ```bash
+  irm https://massgrave.dev/get | iex 
+  ```
 
-Vai abrir uma outra tela clicar no número:
+- clicar na tecla Entrer.
+
+- Vai abrir uma outra tela clicar no número:
 1
