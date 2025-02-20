@@ -1,0 +1,10 @@
+Barra de pesquisa e digitar:
+Windows PowerShell
+Executar como Administrador.
+
+Em seguida executar o seguinte comando:
+irm https://massgrave.dev/get | iex
+e clicar na tecla Entrer.
+
+Vai abrir uma outra tela clicar no número:
+1
