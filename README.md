@@ -6,8 +6,8 @@
 
 - Em seguida executar o seguinte comando:
     ```bash
-  irm https://massgrave.dev/get | iex 
-  ```
+     irm https://massgrave.dev/get | iex 
+     ```
 
 - clicar na tecla Entrer.
 
